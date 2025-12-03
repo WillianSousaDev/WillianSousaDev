@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Olá, eu sou o Willian Sousa</h1>
+<h1 align="center">👋 Olá, me chamo Willian Sousa</h1>
 
 <p align="center">
   Desenvolvedor em formação | Focado em criar soluções simples, eficientes e modernas
