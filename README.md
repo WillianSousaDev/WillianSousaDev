@@ -49,10 +49,18 @@
 
 ## 📂 Projetos em Destaque
 
-📌 ### ⭐ Meu Website – Projeto em Destaque
-<a href="https://williansousadev.github.io/WM-Turismo/paginas/index.html">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliansousaDev&repo=website-turismo&theme=tokyonight" />
-</a>
+📌 ### ⭐ Website – WM Turismo
+
+
+<p align="left">
+  <a href="https://williansousadev.github.io/WM-Turismo/paginas/index.html" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Ver%20Website-0a0f24?style=for-the-badge&logoColor=0ff&labelColor=0a0f24&logo=github"
+      alt="Ver Website"
+    />
+  </a>
+</p>
+
 
 ---
 
