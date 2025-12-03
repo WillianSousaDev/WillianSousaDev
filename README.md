@@ -1,7 +1,5 @@
 <!-- Banner Futurista -->
-<p align="center">
-  <img src="./Banner_1.png" alt="Banner Futurista" width="100%">
-</p>
+
 
 <h1 align="center">👋 Olá, eu sou o Willian Sousa</h1>
 
@@ -52,7 +50,10 @@
 
 ## 📂 Projetos em Destaque
 
-📌 
+📌 ### ⭐ Meu Website – Projeto em Destaque
+<a href="https://github.com/WilliansousaDev/website-turismo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliansousaDev&repo=website-turismo&theme=tokyonight" />
+</a>
 
 ---
 
